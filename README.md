@@ -159,3 +159,6 @@ When you have something to implement and you are not sure about the solutions, d
 When you can’t think of anything on your own, search! Find answers and try them out. Modify those answers, see if you can understand why they work, adapt them to your code.
 
 But always seek advice.
+
+
+thanks you for reading 😊❤
